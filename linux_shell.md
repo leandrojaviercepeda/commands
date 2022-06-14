@@ -29,9 +29,9 @@ do
 done
 ```
 
-**Eliminar todos los archivos *.<extension> de un directorio**
+**Buscar archivos**
 ```
-
+find / -type f -name "*.extension"
 ```
 
 ## Log en systemd
